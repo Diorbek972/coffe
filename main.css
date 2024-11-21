@@ -1,0 +1,10 @@
+.baner-section{
+    background: url(./foto/Bitmap.jpg);
+    background-position: center;
+    background-size: cover;
+    margin-top: 90px;
+}
+.bosh-section{
+    margin-top: 90px;
+    text-align: center;
+}
