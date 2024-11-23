@@ -11,3 +11,55 @@
     margin-top: 90px;
     text-align: center;
 }
+.asosiy-bosh{
+    margin-top: 90px;
+}
+/* sectioni uchinchi qismi */
+.odiy-sozlar{
+    background-color: #2C343E;
+    width: 100%;
+    height: 577px;
+}
+.odiy-sozlar h4{
+    font-size: 50px;
+  margin-top: 25px;
+}
+.uchta-quti{
+    margin-top: 150px;
+}
+.kichkina-qutichalar{
+    width: 350px;
+    height: 380px;
+}
+.kichkina-qutichalar h4{
+    font-size: 24px;
+    margin: 45px 0px;
+}
+.kichkina-qutichalar img{
+    margin-top: 45px;
+}
+.bosh-quti__sozi{
+    margin-top: 50px;
+}
+
+/* sectioni tortinchi qismi */
+.asosiy-boshsh{
+    margin-top: 300px;
+}
+.uchta-quti__sozlar{
+    margin-bottom: 70px;
+}
+.uchta-quti__sozlar h1{
+    color: #FDD6BA;
+    font-size: 90px;
+}
+.uchta-quti__sozlar {
+   margin-top: 90px;
+}
+/* footer qismi */
+.footer{
+    background-color: #2C343E;
+}
+.flex-hossasi{
+    align-items: center;
+}
