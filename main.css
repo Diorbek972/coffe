@@ -15,6 +15,9 @@
     margin-top: 90px;
 }
 /* sectioni uchinchi qismi */
+.dumaloqlar{
+    padding-top: 50px;
+}
 .fiksed{
     position: fixed;
     top: 0px;
@@ -146,6 +149,16 @@ margin: 30px 0px;
     display: block;
     align-items: center;
 }
+/* acordeonlar */
+.rang-pushti_oq{
+    background: #F4F1EB;
+}
+.rang-yashil{
+    background: #0E8784;
+}
+.rang-sariq__qizil{
+    background: #FDD6BA;
+}
 
 @media(max-width:750px){
     .asosiy-boshsh{
@@ -163,5 +176,8 @@ margin: 30px 0px;
     }
     .ikons i{
         display: none;
+    }
+    .bak-rang{
+        height: 1000px;
     }
 }
