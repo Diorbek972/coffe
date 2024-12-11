@@ -180,4 +180,13 @@ margin: 30px 0px;
     .bak-rang{
         height: 1000px;
     }
+    .sory{
+        text-align: center;
+    }
+    .g1-rasm img{
+  width: 80%;
+    }
+    .g2-png img{
+        width: 80%;
+    }
 }
