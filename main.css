@@ -162,7 +162,7 @@ margin: 30px 0px;
 
 @media(max-width:750px){
     .asosiy-boshsh{
-        margin-top: 1190px;
+        margin-top: 1050px;
     }
     .uchta-quti__sozlar{
         text-align: center;
@@ -183,6 +183,7 @@ margin: 30px 0px;
     .sory{
         text-align: center;
     }
+    .kichkina-qutichalar{margin-bottom: 20px;}
     .g1-rasm img{
   width: 80%;
     }
@@ -191,4 +192,5 @@ margin: 30px 0px;
     }
     .rang-pushti_oq{margin: 20px 0px;}
     .rang-yashil{margin-bottom: 20px;}
+    .odiy-sozlar{height: 800px;}
 }
